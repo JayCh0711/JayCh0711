@@ -12,7 +12,7 @@ Seasoned Data Scientist with a foundation as a Java Developer in early career, s
 * 🚀  I'm currently working on [Data Science Projects](http://github.com/JayCh0711/PowerBi_WorldCupAnalysis)
 * 🧠  I'm learning Data Science and Tools, Python, PowerBI
 * 🤝  I'm open to collaborating on Other Data Science Projects
-* ⚡  I love listening music
+* ⚡  I love listening to music
 
 ### Skills
 
@@ -41,7 +41,5 @@ Seasoned Data Scientist with a foundation as a Java Developer in early career, s
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/JayCh0711/PowerBi_WorldCupAnalysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayCh0711&repo=PowerBi_WorldCupAnalysis&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/JayCh0711/PowerBI_SalesForecasting" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayCh0711&repo=PowerBI_SalesForecasting&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/JayCh0711/ValentinesDay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayCh0711&repo=ValentinesDay&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div>

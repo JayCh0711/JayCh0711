@@ -12,7 +12,7 @@ Seasoned Data Scientist with a foundation as a Java Developer in early career, s
 * 🚀  I'm currently working on [Data Science Projects](http://github.com/JayCh0711/PowerBi_WorldCupAnalysis)
 * 🧠  I'm learning Data Science and Tools, Python, PowerBI
 * 🤝  I'm open to collaborating on Other Data Science Projects
-* ⚡  I love listening to music
+* ⚡  I love listening music
 
 ### Skills
 
@@ -33,8 +33,6 @@ Seasoned Data Scientist with a foundation as a Java Developer in early career, s
 <a href="http://www.github.com/JayCh0711"><img src="https://github-readme-stats.vercel.app/api?username=JayCh0711&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="JayCh0711's GitHub stats" /></a>
 
 <a href="http://www.github.com/JayCh0711"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JayCh0711&stroke=14b8a6&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=14b8a6&currStreakLabel=3382ed&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/JayCh0711"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JayCh0711&bg_color=27272a&color=14b8a6&line=ffffff&point=14b8a6&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/JayCh0711" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayCh0711&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

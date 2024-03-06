@@ -44,4 +44,4 @@ Seasoned Data Scientist with a foundation as a Java Developer in early career, s
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/JayCh0711/ValentinesDay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayCh0711&repo=ValentinesDay&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div> 
+<div width="100%" align="center"><a href="https://github.com/JayCh0711/ValentinesDay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayCh0711&repo=ValentinesDay&title_color=3382ed&text_color=14b8a6&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div>

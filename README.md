@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate Data Scientist | Analytical Thinker | Machine Learning Enthusiast
 ----------------------------------------------------------------------------
 
-Seasoned Data Scientist with a foundation as a Java Developer in early career, seamlessly integrating expertise in Python, PowerBI, Data Science Tools, and Excel. Proficient in deciphering complex data landscapes to extract meaningful insights. A passionate storyteller through data analytics, I bring a unique blend of technical prowess and analytical acumen. Eager to contribute to collaborative projects at the forefront of technology and data science, transforming raw information into actionable intelligence.
+Seasoned Data Scientist with a foundation as a Java Developer in early career, and a part-time web developer seamlessly integrating expertise in Python, PowerBI, Data Science Tools, and Excel. Proficient in deciphering complex data landscapes to extract meaningful insights. A passionate storyteller through data analytics, I bring a unique blend of technical prowess and analytical acumen. Eager to contribute to collaborative projects at the forefront of technology and data science, transforming raw information into actionable intelligence.
 
 * 🌍  I'm based in Kolkata
 * 🖥️  See my portfolio at [MyPortfolio](http://yettomake.com)

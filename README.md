@@ -7,7 +7,7 @@ Passionate Data Scientist | Analytical Thinker | Machine Learning Enthusiast
 Seasoned Data Scientist with a foundation as a Java Developer in early career, and a part-time web developer seamlessly integrating expertise in Python, PowerBI, Data Science Tools, and Excel. Proficient in deciphering complex data landscapes to extract meaningful insights. A passionate storyteller through data analytics, I bring a unique blend of technical prowess and analytical acumen. Eager to contribute to collaborative projects at the forefront of technology and data science, transforming raw information into actionable intelligence.
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [MyPortfolio](http://yettomake.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://jaych0711.github.io/)
 * ✉️  You can contact me at [jaychakraborty42.jc@gmail.com](mailto:jaychakraborty42.jc@gmail.com)
 * 🚀  I'm currently working on [Data Science Projects](http://github.com/JayCh0711/PowerBi_WorldCupAnalysis)
 * 🧠  I'm learning Data Science and BI Tools

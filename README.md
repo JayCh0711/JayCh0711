@@ -12,7 +12,7 @@ Seasoned Data Scientist with a foundation as a Java Developer in early career, a
 * 🚀  I'm currently working on [Data Science Projects](http://github.com/JayCh0711/PowerBi_WorldCupAnalysis)
 * 🧠  I'm learning Data Science and BI Tools
 * 🤝  I'm open to collaborating on Other Data Science Projects
-* ⚡  I love listening Cycling
+* ⚡  I love Cycling
 
 ### Skills
 

@@ -1,8 +1,8 @@
-<h2 align="center">Hey👋! I'm Jay Chakraborty</h2>
+<h2 align="left">Hey👋! I'm Jay Chakraborty</h2>
 
 ###
 
-<p align="center">A Seasoned Data Scientist with a foundation as a Java Developer in early career, and a part-time web developer. Seamlessly integrating expertise in Python, BI Tools, Data Science Tools, and Web Technologies. Proficient in deciphering complex data landscapes to extract meaningful insights. A passionate storyteller through data analytics, I bring a unique blend of technical prowess and analytical acumen. Eager to contribute to collaborative projects at the forefront of technology and data science, transforming raw information into actionable intelligence.</p>
+<p align="left">A Seasoned Data Scientist with a foundation as a Java Developer in early career, and a part-time web developer. Seamlessly integrating expertise in Python, BI Tools, Data Science Tools, and Web Technologies. Proficient in deciphering complex data landscapes to extract meaningful insights. A passionate storyteller through data analytics, I bring a unique blend of technical prowess and analytical acumen. Eager to contribute to collaborative projects at the forefront of technology and data science, transforming raw information into actionable intelligence.</p>
 
 ###
 
